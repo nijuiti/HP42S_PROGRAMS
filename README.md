@@ -1,5 +1,5 @@
 # HP42S_PROGRAMS
-HP42S/FREE42/DM42's Programs
+Nijuiti HP42S/FREE42/DM42 Programs
 ## License
 
 These codes are licensed under CC0.
